@@ -15,7 +15,7 @@ This project predicts human emotions from text using Python and Machine Learning
 - Machine Learning
 - NLP basics
 - ## output
-- ![result](output.jpeg)
+- ![result](outputof emotion prediction from text using python.jpeg)
 
 ## 👩‍💻 Author
 ECE Student | Learning AI & Data Science
