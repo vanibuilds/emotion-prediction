@@ -16,12 +16,11 @@ This project predicts human emotions from text using Python and Machine Learning
 - NLP basics
 - ## output
 - ![result](output.jpeg)
-
-## 👩‍💻 Author
-ECE Student | Learning AI & Data Science
 ## Project Output
 The model successfully predicts emotions from text input.
 
 Example:
 - Input: "I am very happy today"
 - Output: Joy 😊
+- ## 👩‍💻 Author
+ECE Student | Learning AI & Data Science
